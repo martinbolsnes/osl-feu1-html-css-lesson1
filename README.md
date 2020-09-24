@@ -33,5 +33,5 @@ Placeholder Images: https://placeholder.com/
 
 #### Deploy it to Netlify
 
-Ensure that all HTML is semantic and have a purpose. This lesson is to be cloned and when completed moved into your gitlink.
+Ensure that all HTML is semantic and have a purpose. This lesson is to be cloned and when completed pushed into your git repository.
 ### PLEASE ENSURE THAT THIS TASK IS COMPLETED BEFORE YOU LEAVE TODAY
