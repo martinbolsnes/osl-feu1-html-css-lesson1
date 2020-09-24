@@ -31,7 +31,7 @@ Dummy Text: https://www.lipsum.com/
 
 Placeholder Images: https://placeholder.com/
 
-##Deploy it to Netlify
+## Deploy it to Netlify
 
 Ensure that all HTML is semantic and have a purpose. This lesson is to be cloned and when completed moved into your gitlink.
 ### PLEASE ENSURE THAT THIS TASK IS COMPLETED BEFORE YOU LEAVE TODAY
